@@ -1,0 +1,42 @@
+div{
+    background-color:  #2A5D5A;
+    width: 800px;
+    height: 400px;
+    padding: 5px;
+    margin: auto;
+    margin-top: 30px;
+}
+.bbox{
+    background-color: #1FE8B7;
+    width: 520px;
+    height: 120px;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+}
+.xbox{
+    background-color: #1FE8B7;
+    width: 520px;
+    height: 120px;
+    margin: auto;
+    margin-top: 15px;
+    text-align: center;
+}
+.qora{
+    background-color: black;
+    width: 600px;
+    height: 300px;
+    margin: auto;
+    padding: 1px;
+    border: 5px solid red;
+    margin-top: 10px;
+}
+.m{
+    color: wheat;
+    background-color:  #311313;
+    margin: auto;
+    width: 400px;
+    text-align: center;
+    margin-top: 5px;
+    border-radius: 1px;
+}
